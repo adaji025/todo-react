@@ -63,6 +63,7 @@
   border: none;
   outline: none;
   cursor: pointer;
+  background: transparent;
   box-flex-group: transparent;
   font-size: 28px;
   border-radius: 50%;
